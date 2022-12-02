@@ -31,7 +31,7 @@ analysing the resumes in bulk rather than manually going through them.
 **Fetching the unique value from the 'degree' feature**
 
 **Feature Handling of 'degree', 'links' and 'work_experience':**
-- 'degree' convert into 'bachelor', 'master', and 'docterte'
+- 'degree' convert into 'bachelor', 'master', and 'docterate'
 - 'links' convert into 'profile'
 - handling the null values of work_experience and converted it's all data into integer format
 
